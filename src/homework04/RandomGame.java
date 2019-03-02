@@ -7,7 +7,7 @@ public class RandomGame {
 	
 	public static void main(String[] args) {
 		
-		        int ActualNumber = 0;
+		        int Number = 0;
 		        int UsersGuess = 0;
 		        int TriesCount = 0;
 		        Scanner in = new Scanner(System.in);
